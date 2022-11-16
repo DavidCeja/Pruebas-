@@ -36,7 +36,7 @@ El objetivo es ajustar una señal senoidal con un valor de entrada de -1.5V a +1
 
 ***Descripción***
 
-![](/run/user/1000/doc/3aa9b81b/Esquematico.png)
+![](Esquematico.png)
 
 > ​                                                                              Fig 1. Circuito de ajuste de señal
 >
@@ -69,11 +69,11 @@ El circuito se divide en diferentes secciones:
 
   La configuración del amplificador en esta sección es de un sumador inversor, como se requiere una ganancia de 1 para que no exista algún tipo de alteración en la señal de entrada, las resistencias conectadas a la entrada inversora del amplificador tienen que ser del mismo valor. 
 
-  ![](/run/user/1000/doc/9560cdad/Sumador inversor.png)
+  ![](Sumador inversor.png)
 
   ​                                                                              Fig 2. Configuración de un sumador
 
-  ![](/run/user/1000/doc/5712b27/Calculos.png)
+  ![](Calculos.png)
 
   
 
@@ -87,7 +87,7 @@ El circuito se divide en diferentes secciones:
 
     El filtro notch se realizo de acuerdo al siguiente modelo:
 
-    ![](/run/user/1000/doc/8418dfe4/Filtro Notch.png)
+    ![](Filtro Notch.png)
 
     ​                                                                                                       Fig 3. Filtro notch
 
@@ -99,7 +99,7 @@ El circuito se divide en diferentes secciones:
 
   ###### *PCB* 
 
-  ![](/run/user/1000/doc/7d2994b4/PCB.png)
+  ![](PCB.png)
   
   ​																		                                Fig 4. Diseño del pcb en upverter
 
